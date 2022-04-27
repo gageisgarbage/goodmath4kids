@@ -1,0 +1,7 @@
+{
+    "name": "FaxProxy App",
+    "description": "Node.js FaxProxy running on Ultraviolet instance",
+    "repository": "https://github.com/FaxHub/FaxHubProxy",
+    "logo": "https://github.com/",
+    "keywords": ["tomp", "faxproxy"]
+}
